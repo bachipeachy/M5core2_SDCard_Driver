@@ -86,5 +86,6 @@ class SDCardUtil:
 
 
 if __name__ == "__main__":
+    
     sdu = SDCardUtil()
     os.listdir('/sd')
